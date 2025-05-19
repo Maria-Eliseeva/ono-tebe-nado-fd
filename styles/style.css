@@ -360,6 +360,7 @@
   text-align: center;
   text-underline-offset: 4px;
 }
+
 .footer__social-list {
   display: flex;
   flex-direction: row;
@@ -367,9 +368,11 @@
   gap: 48px;
   width: 240px;
 }
+
 .footer__social-list-item {
   list-style: none;
 }
+
 .footer__social-link {
   display: block;
 }
